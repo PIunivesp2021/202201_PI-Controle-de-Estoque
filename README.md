@@ -16,33 +16,34 @@ Através de conversas e reuniões com o grupo, foi decidido desenvolvermos uma a
 
 O projeto foi desenvolvido através da necessidade da organização e informatização do setor de estoque de uma empresa do ramo têxtil, onde todo processo de trabalho era feito com a utilização de papeis para as anotações desde o processo de produção, estoque e despacho para os clientes. Foi desenvolvido um software web de gestão e controle de estoque, para facilitar e unir de forma digital todas as informações decorrentes a esses processos no cotidiano do trabalho da empresa, eliminando o uso excessivo de papel.
 
->> O Software foi elaborado com as seguintes programações:
+#### O Software foi elaborado com as seguintes programações:
 
-☛ Programação:
--Python
--HTML
--CSS
--Javascript
+☛ Programação:<br>
+  -Python <br>
+-HTML <br>
+-CSS <br>
+-Javascript <br>
 
-☛ Banco de dados:
+☛ Banco de dados: <br>
 -PostgreSql
 
-☛ Frameworks:
--Django
--Bootstrap
+☛ Frameworks: <br>
+-Django <br>
+-Bootstrap <br>
 
-☛ Deploy:
--Docker
+☛ Deploy: <br>
+-Docker <br>
 
-☛ Hospedagem: 
--Heroku
+☛ Hospedagem:  <br>
+-Heroku <br>
 
+----
+#### ◼️ ◻️ Vídeo de apresentação do Projeto Integrador <https://youtu.be/Gh3J8OzsSG0 > 
 
->> Vídeo de apresentação do Projeto Integrador < https://youtu.be/Gh3J8OzsSG0 > 
+#### ◼️ ◻️ Link da aplicação: https://controle-de-estoque-pi.herokuapp.com/ 
+----
 
->> Link da aplicação: https://controle-de-estoque-pi.herokuapp.com/ 
-
-#### Alunos Envolvidos no projeto:
+#### ⌦ Alunos Envolvidos no projeto:
 
 Alexandre Matos RA: 2014995 
 
