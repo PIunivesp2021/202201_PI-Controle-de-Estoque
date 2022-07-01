@@ -38,9 +38,9 @@ O projeto foi desenvolvido através da necessidade da organização e informatiz
 -Heroku <br>
 
 ----
-#### ◼️ ◻️ Vídeo de apresentação do Projeto Integrador <https://youtu.be/Gh3J8OzsSG0 > 
+#### ◼️ ◻️ Vídeo de apresentação do Projeto Integrador <https://www.youtube.com/watch?v=FEANw1ZmVhc> 
 
-#### ◼️ ◻️ Link da aplicação: https://controle-de-estoque-pi.herokuapp.com/ 
+#### ◼️ ◻️ Link da aplicação: https://progetointegradorsegundo.herokuapp.com/ 
 ----
 
 #### ⌦ Alunos Envolvidos no projeto:
